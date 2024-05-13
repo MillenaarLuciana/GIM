@@ -1,7 +1,7 @@
 # GIM
 Corso di grafica in movimento, Supsi, 2024 
 
-Esercizio_1A
+# Esercizio_1A
 
 Acceso spento:
 https://millenaarluciana.github.io/GIM/Esercizio%201A/acceso_spento_2.html
@@ -20,7 +20,7 @@ https://millenaarluciana.github.io/GIM/Esercizio%201A/spostamento_2.html
 https://millenaarluciana.github.io/GIM/Esercizio%201A/spostamento_3.html
 
 
-Esercizio_1B
+# Esercizio_1B
 
 https://millenaarluciana.github.io/GIM/Esercizio_1B/template/indexA.html
 
