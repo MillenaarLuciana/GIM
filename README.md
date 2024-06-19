@@ -24,7 +24,6 @@ https://millenaarluciana.github.io/GIM/Esercizio%201A/spostamento_3.html
 
 https://millenaarluciana.github.io/GIM/Esercizio_1B/Biliardo/b.html
 
-https://millenaarluciana.github.io/GIM/
 
 # Esercizio_1C - testo
 
