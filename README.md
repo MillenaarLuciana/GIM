@@ -28,7 +28,7 @@ https://millenaarluciana.github.io/GIM/
 
 # Esercizio_1C - testo
 
-
+https://millenaarluciana.github.io/GIM/Esercizio_1C/README.md
 
 # Esercizio_2 - tipografia espressiva
 
