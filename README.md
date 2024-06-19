@@ -22,7 +22,7 @@ https://millenaarluciana.github.io/GIM/Esercizio%201A/spostamento_3.html
 
 # Esercizio_1B
 
-https://millenaarluciana.github.io/GIM/Esercizio_1B/template/indexA.html
+https://millenaarluciana.github.io/GIM/Esercizio_1B/Biliardo/b.html
 
 https://millenaarluciana.github.io/GIM/
 
