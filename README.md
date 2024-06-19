@@ -28,7 +28,13 @@ https://millenaarluciana.github.io/GIM/
 
 # Esercizio_1C - testo
 
+
+
 # Esercizio_2 - tipografia espressiva
+
+
 # Esercizio_3A - orologio
+
+
 # Esercizio_3B - neve e pioggia
 
