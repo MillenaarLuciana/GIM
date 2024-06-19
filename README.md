@@ -32,9 +32,15 @@ https://millenaarluciana.github.io/GIM/
 
 # Esercizio_2 - tipografia espressiva
 
+https://millenaarluciana.github.io/GIM/Esercizio_2/loop.html
+https://millenaarluciana.github.io/GIM/Esercizio_2/scorrimento.html
 
 # Esercizio_3A - orologio
+
+https://millenaarluciana.github.io/GIM/Esercizio_3A/orologio%20scomposto/index.html
 
 
 # Esercizio_3B - neve e pioggia
 
+https://millenaarluciana.github.io/GIM/Esercizio_3B_Pioggia/index.html
+https://millenaarluciana.github.io/GIM/Esercizio_3B_neve/index.html
