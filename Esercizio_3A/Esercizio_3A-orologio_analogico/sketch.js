@@ -9,8 +9,9 @@ function windowResized() {
 function draw() {
 	background(200)
 
+
 	translate(width/2, height/2)
-	
+
 	stroke(0, 50)
 	line(-200, 0, 200, 0)
 	line(0, -200, 0, 200)
@@ -27,14 +28,15 @@ function draw() {
 	rotate(TAU / 60 * minute())
 	rect(-5, 25, 10, -170)
 	pop()
-	
+
+	const m = (new Date()).getMilliseconds() / 1000 * TAU / 60
+	fill(255,0,0)
 	push()
-	rotate(TAU / 60 * second())
-	rect(-2, 25, 4, -200)
+	rotate(TAU / 60 * second() + m)
+	rect(-2, 25, 4, -180)
+	circle(0, -155, 24)
 	pop()
 
-	fill(200)
+	fill(255)
 	circle(0, 0, 12)
-
-
 }
