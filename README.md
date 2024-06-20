@@ -37,6 +37,7 @@ https://millenaarluciana.github.io/GIM/Esercizio_2/scorrimento.html
 # Esercizio_3A - orologio
 
 https://millenaarluciana.github.io/GIM/Esercizio_3A/orologio%20scomposto/index.html
+https://millenaarluciana.github.io/GIM/Esercizio_3A/orologio%203%20cerchi/index.html
 
 
 # Esercizio_3B - neve e pioggia
