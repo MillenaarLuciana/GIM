@@ -11,12 +11,10 @@ function setup() {
   
 	translate(width / 2, height / 2);
   
-	// Disegna i cerchi per ore, minuti e secondi
 	drawClockCircle(hour(), 12, 140, 12); 
 	drawClockCircle(minute(), 60, 100, 8); 
 	drawClockCircle(second(), 60, 60, 4); 
   
-	// Disegna il cerchio centrale
 	fill(200);
 	circle(0, 0, 20);
 
